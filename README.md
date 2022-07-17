@@ -15,7 +15,6 @@ At the end of each semester, students are left with study material that is no lo
 ![Picture4](https://user-images.githubusercontent.com/89039068/179427264-8d04aaf0-3061-4dae-a2c9-49a76cbe6ac3.png)
 ###### 5.  Create Ad Screen
 ![Picture5](https://user-images.githubusercontent.com/89039068/179427267-2499eaab-fe42-4231-bf99-5f3d268623c4.png)
-![Picture9](https://user-images.githubusercontent.com/89039068/179427761-431a6632-3576-4979-807b-be8be5d5d9f8.png)
 ###### 6. Personal Info
 ![Picture6](https://user-images.githubusercontent.com/89039068/179427273-dbd968f4-81e5-4af0-b93b-946675aff99b.png)
 ###### 7. List Item
